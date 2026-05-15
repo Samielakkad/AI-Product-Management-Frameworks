@@ -97,7 +97,7 @@ Where a framework's design was changed by production data, the file documents th
 
 ## What's NOT in here
 
-- **Model architecture details.** See [jak-ma-eval-suite/docs/architecture.md](https://github.com/selakkad2003/jak-ma-eval-suite/blob/main/docs/architecture.md).
+- **Model architecture details.** See [jak-ma-eval-suite/docs/architecture.md](https://github.com/Samielakkad/jak-ma-eval-suite/blob/main/docs/architecture.md).
 - **Production code.** See [jak.ma](https://jak.ma).
 - **Baidu-confidential details.** The ERNIE-program methodology is the public version; specifics are not in this repo.
 - **A general PM curriculum.** This is opinionated, narrow, and applied. If you want broad PM frameworks, look at Reforge or Lenny's Newsletter.
@@ -121,10 +121,10 @@ MIT. Use these in your product, your blog post, your PRD, your interview. Citati
 
 ## Related repositories
 
-- **[jak-ma-eval-suite](https://github.com/selakkad2003/jak-ma-eval-suite)** — verifier spec, prompt set, sample queries, eval runner
-- **[jak-ma-case-study](https://github.com/selakkad2003/jak-ma-case-study)** — production narrative: decisions, tradeoffs, what broke
-- **[ernie-evaluation-notes](https://github.com/selakkad2003/ernie-evaluation-notes)** — the calibration methodology from the Baidu ERNIE Mentor Program
-- **[darija-nlp-resources](https://github.com/selakkad2003/darija-nlp-resources)** — public corpora, papers, tools for Moroccan-Arabic NLP
+- **[jak-ma-eval-suite](https://github.com/Samielakkad/jak-ma-eval-suite)** — verifier spec, prompt set, sample queries, eval runner
+- **[jak-ma-case-study](https://github.com/Samielakkad/jak-ma-case-study)** — production narrative: decisions, tradeoffs, what broke
+- **[ernie-evaluation-notes](https://github.com/Samielakkad/ernie-evaluation-notes)** — the calibration methodology from the Baidu ERNIE Mentor Program
+- **[darija-nlp-resources](https://github.com/Samielakkad/darija-nlp-resources)** — public corpora, papers, tools for Moroccan-Arabic NLP
 
 ---
 
