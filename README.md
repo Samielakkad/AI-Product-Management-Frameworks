@@ -1,4 +1,4 @@
-# pm-frameworks-darija
+# AI + Product Management · pm-frameworks-darija
 
 > Reusable PM frameworks extracted from shipping a Darija-language conversational marketplace ([jak.ma](https://jak.ma)) and from the Baidu ERNIE Mentor Program (October–December 2025). Pricing taxonomy, evaluation rubric, rater calibration, verifier philosophy, multimodal decision matrix.
 
