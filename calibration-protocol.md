@@ -156,7 +156,7 @@ In practice for jak.ma: LLM judge for the weekly regression check; calibrated hu
 
 - **The rubric:** [`evaluation-rubric.md`](./evaluation-rubric.md)
 - **Why disagreement matters:** [`verifier-philosophy.md`](./verifier-philosophy.md)
-- **Adversarial set construction (uses the same calibration approach):** [`ernie-evaluation-notes/calibration_practice.md`](https://github.com/Samielakkad/ernie-evaluation-notes/blob/main/calibration_practice.md)
+- **Adversarial set construction (uses the same calibration approach):** [`ernie-evaluation-notes/calibration_practice.md`](https://github.com/Samielakkad/ai-llm-evaluation-baidu-ernie/blob/main/calibration_practice.md)
 
 ---
 

@@ -137,9 +137,9 @@ Inference dominates. The trick is to start inference *as soon as the image is ca
 
 ## How this connects to the rest
 
-- **System architecture (where the image fits):** [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/jak-ma-eval-suite/blob/main/docs/architecture.md)
-- **Cost model:** [`jak-ma-eval-suite/docs/cost_model.md`](https://github.com/Samielakkad/jak-ma-eval-suite/blob/main/docs/cost_model.md)
-- **Latency budget:** [`jak-ma-eval-suite/docs/latency_budget.md`](https://github.com/Samielakkad/jak-ma-eval-suite/blob/main/docs/latency_budget.md)
+- **System architecture (where the image fits):** [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/docs/architecture.md)
+- **Cost model:** [`jak-ma-eval-suite/docs/cost_model.md`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/docs/cost_model.md)
+- **Latency budget:** [`jak-ma-eval-suite/docs/latency_budget.md`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/docs/latency_budget.md)
 
 ---
 
