@@ -8,7 +8,7 @@
 
 A conversational system that surfaces prices will be wrong about prices, and the user will not know it is wrong. In a market with no published price benchmark (Moroccan plumbing, Tunisian electrical, Egyptian tiling — any service market across the MENA region, plus most of South and Southeast Asia), the model has no reliable prior to anchor on. It will produce a number that sounds plausible in English-language reasoning and is wrong by a factor of 3–10 in local terms.
 
-This document is the operational playbook for building the rule table that catches that. It is the framework behind the [`V4` price-fairness check](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/VERIFIER_SPEC.md) in the jak.ma verifier.
+This document is the operational playbook for building the rule table that catches that. It is the framework behind the [`V4` price-fairness check](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/VERIFIER_SPEC.md) in the jak.ma verifier.
 
 ---
 
@@ -139,7 +139,7 @@ The price taxonomy applied to a Tunisian market would have ~80% category overlap
 
 - **Verifier:** uses the table directly via V4 — see [`verifier-philosophy.md`](./verifier-philosophy.md)
 - **Evaluation rubric:** the `price_fairness` dimension is anchored to the table — see [`evaluation-rubric.md`](./evaluation-rubric.md)
-- **System architecture:** see [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/docs/architecture.md)
+- **System architecture:** see [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/docs/architecture.md)
 
 ---
 

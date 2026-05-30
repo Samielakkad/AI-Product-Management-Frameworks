@@ -165,7 +165,7 @@ When a new prompt, new model, or new retrieval index is candidate for production
 
 - **Latency.** Out of scope — separate SLO.
 - **Cost.** Out of scope — separate SLO.
-- **Adversarial robustness.** Adversarial queries are evaluated separately, see [`ernie-evaluation-notes/adversarial_pairs.md`](https://github.com/Samielakkad/ai-llm-evaluation-baidu-ernie/blob/main/adversarial_pairs.md).
+- **Adversarial robustness.** Adversarial queries are evaluated separately, see [`ernie-evaluation-notes/adversarial_pairs.md`](https://github.com/Samielakkad/AI-LLM-Evaluation-Baidu-ERNIE/blob/main/adversarial_pairs.md).
 - **Long-term user satisfaction.** Use NPS or retention, not this rubric.
 
 ---
@@ -189,9 +189,9 @@ The structural pattern — 5 dimensions, 0–4 scale, calibrated anchors per dim
 ## How this connects to the rest
 
 - **Calibration:** see [`calibration-protocol.md`](./calibration-protocol.md)
-- **Adversarial set construction:** see [`ernie-evaluation-notes/adversarial_pairs.md`](https://github.com/Samielakkad/ai-llm-evaluation-baidu-ernie/blob/main/adversarial_pairs.md)
-- **Eval runner code:** see [`jak-ma-eval-suite/scripts/run_eval.py`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/scripts/run_eval.py)
-- **System architecture:** see [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/docs/architecture.md)
+- **Adversarial set construction:** see [`ernie-evaluation-notes/adversarial_pairs.md`](https://github.com/Samielakkad/AI-LLM-Evaluation-Baidu-ERNIE/blob/main/adversarial_pairs.md)
+- **Eval runner code:** see [`jak-ma-eval-suite/scripts/run_eval.py`](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/scripts/run_eval.py)
+- **System architecture:** see [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/docs/architecture.md)
 
 ---
 

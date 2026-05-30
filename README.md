@@ -97,7 +97,7 @@ Where a framework's design was changed by production data, the file documents th
 
 ## What's NOT in here
 
-- **Model architecture details.** See [jak-ma-eval-suite/docs/architecture.md](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/docs/architecture.md).
+- **Model architecture details.** See [jak-ma-eval-suite/docs/architecture.md](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/docs/architecture.md).
 - **Production code.** See [jak.ma](https://jak.ma).
 - **Baidu-confidential details.** The ERNIE-program methodology is the public version; specifics are not in this repo.
 - **A general PM curriculum.** This is opinionated, narrow, and applied. If you want broad PM frameworks, look at Reforge or Lenny's Newsletter.
@@ -121,10 +121,10 @@ MIT. Use these in your product, your blog post, your PRD, your interview. Citati
 
 ## Related repositories
 
-- **[jak-ma-eval-suite](https://github.com/Samielakkad/ai-llm-evaluation-jakma)** — verifier spec, prompt set, sample queries, eval runner
-- **[jak-ma-case-study](https://github.com/Samielakkad/ai-product-jakma-case-study)** — production narrative: decisions, tradeoffs, what broke
-- **[ernie-evaluation-notes](https://github.com/Samielakkad/ai-llm-evaluation-baidu-ernie)** — the calibration methodology from the Baidu ERNIE Mentor Program
-- **[darija-nlp-resources](https://github.com/Samielakkad/ai-nlp-darija-resources)** — public corpora, papers, tools for Moroccan-Arabic NLP
+- **[jak-ma-eval-suite](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa)** — verifier spec, prompt set, sample queries, eval runner
+- **[jak-ma-case-study](https://github.com/Samielakkad/AI-Product-JakMa-Case-Study)** — production narrative: decisions, tradeoffs, what broke
+- **[ernie-evaluation-notes](https://github.com/Samielakkad/AI-LLM-Evaluation-Baidu-ERNIE)** — the calibration methodology from the Baidu ERNIE Mentor Program
+- **[darija-nlp-resources](https://github.com/Samielakkad/AI-NLP-Darija-Resources)** — public corpora, papers, tools for Moroccan-Arabic NLP
 
 ---
 

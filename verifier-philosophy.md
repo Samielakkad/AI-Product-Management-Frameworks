@@ -76,7 +76,7 @@ When LLM-as-judge rejects an output, the rejection is "the judge gave it a 2." W
 
 ## Six checks the jak.ma verifier runs
 
-The deterministic verifier has six independent checks. Each is < 1ms to compute. The full spec is in [VERIFIER_SPEC.md](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/VERIFIER_SPEC.md).
+The deterministic verifier has six independent checks. Each is < 1ms to compute. The full spec is in [VERIFIER_SPEC.md](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/VERIFIER_SPEC.md).
 
 | ID | Check | Why deterministic |
 |---|---|---|
@@ -151,10 +151,10 @@ If you are building a verifier today:
 
 ## How this connects to the rest
 
-- **The actual checks:** [`jak-ma-eval-suite/VERIFIER_SPEC.md`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/VERIFIER_SPEC.md)
+- **The actual checks:** [`jak-ma-eval-suite/VERIFIER_SPEC.md`](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/VERIFIER_SPEC.md)
 - **Pricing rule table used by V4:** [`pricing-taxonomy.md`](./pricing-taxonomy.md)
 - **5-dim rubric for evaluation:** [`evaluation-rubric.md`](./evaluation-rubric.md)
-- **System architecture:** [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/ai-llm-evaluation-jakma/blob/main/docs/architecture.md)
+- **System architecture:** [`jak-ma-eval-suite/docs/architecture.md`](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa/blob/main/docs/architecture.md)
 
 ---
 
